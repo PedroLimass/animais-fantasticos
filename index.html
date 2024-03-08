@@ -25,7 +25,7 @@
     </nav>
     <section class="grid-section animais js-scroll" id="animais">
       <h1 class="titulo">Animais Fantásticos</h1>
-      <ul class="animais-lista js-tabmenu">
+      <ul class="animais-lista" data-tab="menu">
         <li>
           <img src="img/imagem1.jpg" />
         </li>
@@ -45,8 +45,8 @@
           <img src="img/imagem6.jpg" />
         </li>
       </ul>
-      <div class="animais-descricao js-tabcontent">
-        <section>
+      <div class="animais-descricao" data-tab="content">
+        <section data-anime="show-right">
           <h2>Raposa</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -59,7 +59,7 @@
           </p>
         </section>
 
-        <section>
+        <section data-anime="show-right">
           <h2>Esquilo</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -89,7 +89,7 @@
             semelhantes às pupilas verticais dos felídeos.
           </p>
         </section>
-        <section>
+        <section data-anime="show-down">
           <h2>Urso</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -110,7 +110,7 @@
             semelhantes às pupilas verticais dos felídeos.
           </p>
         </section>
-        <section>
+        <section data-anime="show-down">
           <h2>Lobo</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -131,7 +131,7 @@
             semelhantes às pupilas verticais dos felídeos.
           </p>
         </section>
-        <section>
+        <section data-anime="show-right">
           <h2>Macaco</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -152,7 +152,7 @@
             semelhantes às pupilas verticais dos felídeos.
           </p>
         </section>
-        <section>
+        <section data-anime="show-right">
           <h2>Leão</h2>
           <p>
             As raposas são animais mamíferos e onívoros pertencentes à família
@@ -221,6 +221,7 @@
       <p>Todos os direitos reservados.</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script type="module" src="./js/script.js"></script>    
+    <!-- <script src="./js/module/animacoes.js"></script>     -->
   </body>
 </html>
