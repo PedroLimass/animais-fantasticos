@@ -4,6 +4,7 @@ import initScrollSuave from './module/initScrollSuave.js';
 import initAnimacaoScroll from './module/initAnimacaoScroll.js';
 import initModal from './module/initModal.js';
 import initTooltip from './module/initTooltip.js';
+import initDropdownMenu from './module/dropdown-menu.js';
 
 initAccordion(); //Accordion List   
 initTabNav(); //Navegação por Tabs
@@ -11,3 +12,4 @@ initScrollSuave(); //initScrollSuave
 initAnimacaoScroll(); //initAnimacaoScroll  
 initModal(); //initModal
 initTooltip(); //initTooltip
+initDropdownMenu(); //initDropdownMenu
