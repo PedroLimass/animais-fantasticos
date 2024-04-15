@@ -8,6 +8,8 @@ import initDropdownMenu from './module/dropdown-menu.js';
 import initMenuMobile from './module/menu-mobile.js';
 import initAnimaNumeros from './module/anima-numeros.js';
 import initFuncionamento from './module/funcionamento.js';
+import initFetchAnimais from './module/fetch-animais.js';
+import intiFetchBitcoin from './module/fetch-bitcoin.js';
 
 
 initAccordion(); //Accordion List   
@@ -20,3 +22,5 @@ initDropdownMenu(); //initDropdownMenu
 initMenuMobile() //initMenuMobile
 initAnimaNumeros(); //initAnimaNumeros
 initFuncionamento(); //initFuncionamento
+initFetchAnimais(); //initFetchAnimais
+intiFetchBitcoin(); //intiFetchBitcoin
