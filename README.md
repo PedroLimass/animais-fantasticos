@@ -52,7 +52,7 @@ $ npm start
 # Imagen do Projeto
 
 <p align="center">
-  <img src="https://ibb.co/jLqsP2g" alt="Animais Fantásticos">
+  <img src="https://i.ibb.co/19Bjt58/animais-Fantasticos.gif" alt="Animais Fantásticos">
 </p>
 
 
