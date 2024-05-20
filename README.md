@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Animais Fantásticos é um projeto desenvolvido como parte do curso de JavaScript Completo da Origamid. Este projeto tem como objetivo ensinar conceitos avançados de JavaScript através da criação de uma aplicação interativa que apresenta diferentes animais com suas características e curiosidades.
+Animais Fantásticos é um projeto desenvolvido como parte de um curso focado em JavaScript. Este projeto tem como objetivo ensinar conceitos avançados de JavaScript através da criação de uma aplicação interativa que apresenta diferentes animais com suas características e curiosidades.
 
 ## Funcionalidades
 
